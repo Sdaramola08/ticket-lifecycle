@@ -22,15 +22,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Intake (New)
+- Assignment and Communication (Open)
+- Working the Issue (Answered)
+- Resolution (Resolution)
+- Postponed
 
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I3cFboW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h2>Tickets and Ticket Lifecycle</h2>
