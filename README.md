@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [How to create, work, and resolves tickets within osTicket by Mr. Madakor](https://firebasestorage.googleapis.com/v0/b/coursecareers-prod.appspot.com/o/courses%2Fit-course%2FFINAL_DRAFT_osTicket%20Tickets%20and%20Ticket%20Lifecycle.mp4?alt=media&token=d31fc420-2cbe-4492-ba8d-01dfabd64424)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -41,20 +41,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
   - Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow]
 
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
